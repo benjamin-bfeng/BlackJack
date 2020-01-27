@@ -1,0 +1,5 @@
+﻿  BlackJack.cpp
+C:\CS Projects\BlackJack\BlackJack\BlackJack.cpp(152,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\CS Projects\BlackJack\BlackJack\BlackJack.cpp(158,7): warning C4101: 'response': unreferenced local variable
+C:\CS Projects\BlackJack\BlackJack\BlackJack.cpp(44): warning C4715: 'Card::get_number': not all control paths return a value
+  BlackJack.vcxproj -> C:\CS Projects\BlackJack\Debug\BlackJack.exe
